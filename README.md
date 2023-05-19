@@ -1,3 +1,5 @@
+# v0.1.0
+
 # ElasticSearch Hook for [Logrus](https://github.com/Sirupsen/logrus)
 Features:
 - Asynchronous
