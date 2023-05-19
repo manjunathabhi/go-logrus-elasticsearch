@@ -6,9 +6,9 @@ Features:
 - Updates elastic search in bulks, reducing strain on the ElasticSearch server
 
 ## Installation
-`go get github.com/interactive-solutions/go-logrus-elasticsearch`
+`go get github.com/manjunathabhi/go-logrus-elasticsearch`
 
-`dep ensure -add github.com/interactive-solutions/go-logrus-elasticsearch`
+`dep ensure -add github.com/manjunathabhi/go-logrus-elasticsearch`
 
 ## Usage
 ```go
@@ -24,7 +24,7 @@ import (
     
     "github.com/pkg/errors"
     "github.com/sirupsen/logrus"
-    "github.com/interactive-solutions/go-logrus-elasticsearch"
+    "github.com/manjunathabhi/go-logrus-elasticsearch"
     "github.com/olivere/elastic"
 )
     
